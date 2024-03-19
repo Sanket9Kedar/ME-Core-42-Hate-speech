@@ -1,5 +1,5 @@
 # README for Hate Speech Detection Project
-Download the zip file from this repositry and the glove 6B file from stanford Glov or this link (https://www.kaggle.com/datasets/sawarn69/glove6b100dtxt?resource=download)
+Download the zip file from this repositry and the glove 6B file from stanford Glov or this link (https://www.kaggle.com/datasets/sawarn69/glove6b100dtxt?resource=download) and store it under Data folder
 
 ## Overview
 This project includes a set of Python scripts designed to train a machine learning model for hate speech detection, serve predictions using a FastAPI web application, and make requests to the web service. The project utilizes text data, pre-trained GloVe word embeddings, and TensorFlow for model training.
